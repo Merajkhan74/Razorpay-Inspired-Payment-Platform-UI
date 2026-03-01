@@ -7,7 +7,7 @@ This project demonstrates strong understanding of component-based architecture, 
 
 ## 🚀 Live Demo
 
-🔗 https://your-project-link.vercel.app  
+🔗 (https://razorpay-inspired-payment-platform-delta.vercel.app/)
 (Deploy on Vercel / Netlify and replace this link)
 
 ---
