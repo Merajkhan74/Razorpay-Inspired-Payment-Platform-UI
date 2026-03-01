@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import "tailwindcss";
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* @import "tailwindcss"; */
+
+@theme {
+  --font-family3: "Pacifico", cursive;
+  --font-family2: "Roboto Condensed", sans-serif;
+  --font-family: "Mulish", sans-serif;
+
+  --color-deepwhite: #eef1f5;
+  --color-deepBlue:  #02042a;
+  --color-deepBlue:  #02042a;
+  --color-lightBlue:#2b84ea;
+  --color-lightBlue300:#4b94ed;
+  --color-lightBlue500:#0b72e7;
+  --color-green-light:#62cea6;
+  --color-grayText:#818597;
+  --color-lightGray:#e2e2e2;
+  --color-grayBlue:#344a6c;
+  --color-deepBlueHead:#162f56;
+  --color-gray2:#525a76;
+
+
+
+}

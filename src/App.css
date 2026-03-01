@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+body {
+  overflow-x: hidden;
+  box-sizing: border-box;
+  /* overflow: hidden; */
+}
+#futureBox2{
+  border: inset;
+}
+.coreFuture{
+  background-size: 100% 100% ;
+  padding-top: 8rem;
+  padding-bottom: 9rem;
+
+}
+.catSection{
+  background-size: 100% 100% ;
+   padding-top: 2rem;
+  padding-bottom: 6rem;
+}
+
+ .companiesList {
+  position: absolute;
+  animation: moveCompany 10s linear infinite;
+}
+
+@keyframes moveCompany {
+  0% {
+    top: 0;
+  }
+  100% {
+    top: -50%; 
+  }
+}
+  
